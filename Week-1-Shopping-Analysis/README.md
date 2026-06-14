@@ -1,4 +1,4 @@
-# Celebal Excellence Internship - Data Science
+# Celebal Excellence Internship - Data Engineering
 
 Author: Shivam Navhekar
 
