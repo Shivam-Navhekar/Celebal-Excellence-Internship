@@ -53,3 +53,11 @@ Week-1-Shopping-Analysis/
 │   └── cleaned_dataset.csv
 │── README.md
 ```
+
+## How to Run
+1. Clone this repository
+2. Install required libraries:
+   pip install pandas numpy matplotlib seaborn
+3. Open the notebook:
+   jupyter notebook notebook/Shopping-Analysis.ipynb
+4. Run all cells in order
