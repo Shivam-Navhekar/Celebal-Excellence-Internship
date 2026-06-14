@@ -13,7 +13,7 @@ as part of the Data Engineering internship program
 
 ### Dataset
 - File: combined_dataset.csv
-- 1000 product records from Myntra
+- 1000 product records
 - 24 columns including price, rating, discount and category details
 
 ### Steps Performed
