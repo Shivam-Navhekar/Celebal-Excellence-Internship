@@ -1,27 +1,27 @@
-    # Week 2: E-Commerce SQL Database Analysis
+# Week 2: E-Commerce SQL Database Analysis
 
-    **Student:** Shivam Navhekar  
-    **Task:** SQL-based data analysis using filtering, aggregation, and business queries
+**Student:** Shivam Navhekar  
+**Task:** SQL-based data analysis using filtering, aggregation, and business queries
 
-    ---
+---
 
-    ## Overview
+ ## Overview
 
-    This assignment focused on writing SQL queries for an e-commerce database called ShopEase. The database has 4 main tables: customers, products, orders, and order_items. I wrote 27 SQL queries across 5 sections to analyze sales data, customer behavior, and product performance.
+This assignment focused on writing SQL queries for an e-commerce database called ShopEase. The database has 4 main tables: customers, products, orders, and order_items. I wrote 27 SQL queries across 5 sections to analyze sales data, customer behavior, and product performance.
 
-    ## Database Schema
+## Database Schema
 
-    The database consists of:
+The database consists of:
     - **customers** - stores customer info like name, city, and premium status
     - **products** - product catalog with category, brand, and price
     - **orders** - customer orders with date and status (Pending, Shipped, Delivered, Cancelled)
     - **order_items** - line items in each order with quantity and discount
 
-    All tables are connected using Primary Keys and Foreign Keys to maintain data integrity.
+ All tables are connected using Primary Keys and Foreign Keys to maintain data integrity.
 
-    ## Files Included
+## Files Included
 
-    - **schema/database_schema.sql** - CREATE TABLE statements and sample data INSERT statements
+  - **schema/database_schema.sql** - CREATE TABLE statements and sample data INSERT statements
     - **Section_A/basic_queries.sql** - Q1-Q6 (SELECT basics, constraints, primary keys)
     - **Section_B/filtering_queries.sql** - Q7-Q12 (WHERE, indexes, SARGable queries)
     - **Section_C/aggregation_queries.sql** - Q13-Q18 (COUNT, SUM, AVG, GROUP BY, HAVING)
