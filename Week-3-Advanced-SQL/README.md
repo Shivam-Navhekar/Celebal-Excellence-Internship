@@ -71,18 +71,18 @@ Business questions answered using SQL:
 ```
 Week-3-Advanced-SQL
 │
-├── README.md
-│
 ├── Data
 │   └── Sample - Superstore.csv
 │
-└── SQL
-    ├── 01_setup_tables.sql
-    ├── 02_subqueries.sql
-    ├── 03_ctes.sql
-    ├── 04_window_functions.sql
-    ├── 05_combined_queries.sql
-    └── 06_mini_project.sql
+├── SQL
+│   ├── 01_setup_tables.sql
+│   ├── 02_subqueries.sql
+│   ├── 03_ctes.sql
+│   ├── 04_window_functions.sql
+│   ├── 05_combined_queries.sql
+│   └── 06_mini_project.sql
+│
+└── README.md
 ```
 
 ---
