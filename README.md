@@ -9,7 +9,8 @@
 | Week | Topic | Link |
 |------|-------|------|
 | Week 1 | Shopping Dataset Analysis - Data Exploration & Cleaning | [View](./Week-1-Shopping-Analysis) |
-| Week 2 | SQL Database - Filtering, Aggregation & Querie | [View](./Week-2-SQL-Assignment) |
+| Week 2 | SQL Database - Filtering, Aggregation & Queries | [View](./Week-2-SQL-Assignment) |
+| Week 3 | Advanced SQL - Subqueries, CTEs, Window Functions | [View](./Week-3-Advanced-SQL) |
 
 ---
 
